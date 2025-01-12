@@ -1,0 +1,12 @@
+{
+  "name": "wust",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["wasm", "rust", "cargo"],
+  "author": "Oleg Mihailik",
+  "license": "MIT",
+  "description": "WASM Rust environment"
+}
